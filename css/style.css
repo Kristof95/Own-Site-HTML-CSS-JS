@@ -192,6 +192,11 @@ h5{
 	width: 100%;
 }
 
+.wrapper > p {
+	font-size: 15px;
+	color:#ffffff;
+}
+
 /*Home page styles
 =================================*/
 
