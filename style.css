@@ -1,0 +1,8 @@
+body > img {
+    float:left;
+}
+
+body > p{
+    font-size: 18px;
+    padding-right: 20em;
+}
